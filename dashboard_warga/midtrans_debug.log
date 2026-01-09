@@ -1,0 +1,25 @@
+[07-Jan-2026 14:17:50 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'tanggal_bayar' in 'field list' in C:\xampp\htdocs\PBL-TRPL101-CM2\dashboard_warga\bayariuranwarga.php:290
+Stack trace:
+#0 C:\xampp\htdocs\PBL-TRPL101-CM2\dashboard_warga\bayariuranwarga.php(290): mysqli_query(Object(mysqli), 'UPDATE iuran_ru...')
+#1 {main}
+  thrown in C:\xampp\htdocs\PBL-TRPL101-CM2\dashboard_warga\bayariuranwarga.php on line 290
+[07-Jan-2026 14:18:20 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'tanggal_bayar' in 'field list' in C:\xampp\htdocs\PBL-TRPL101-CM2\dashboard_warga\bayariuranwarga.php:290
+Stack trace:
+#0 C:\xampp\htdocs\PBL-TRPL101-CM2\dashboard_warga\bayariuranwarga.php(290): mysqli_query(Object(mysqli), 'UPDATE iuran_ru...')
+#1 {main}
+  thrown in C:\xampp\htdocs\PBL-TRPL101-CM2\dashboard_warga\bayariuranwarga.php on line 290
+[07-Jan-2026 14:19:24 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'tanggal_bayar' in 'field list' in C:\xampp\htdocs\PBL-TRPL101-CM2\dashboard_warga\bayariuranwarga.php:290
+Stack trace:
+#0 C:\xampp\htdocs\PBL-TRPL101-CM2\dashboard_warga\bayariuranwarga.php(290): mysqli_query(Object(mysqli), 'UPDATE iuran_ru...')
+#1 {main}
+  thrown in C:\xampp\htdocs\PBL-TRPL101-CM2\dashboard_warga\bayariuranwarga.php on line 290
+[07-Jan-2026 14:20:33 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE payment_order_id = 'AKURAD-20260107141837-22-9212'' at line 3 in C:\xampp\htdocs\PBL-TRPL101-CM2\dashboard_warga\bayariuranwarga.php:289
+Stack trace:
+#0 C:\xampp\htdocs\PBL-TRPL101-CM2\dashboard_warga\bayariuranwarga.php(289): mysqli_query(Object(mysqli), 'UPDATE iuran_ru...')
+#1 {main}
+  thrown in C:\xampp\htdocs\PBL-TRPL101-CM2\dashboard_warga\bayariuranwarga.php on line 289
+[07-Jan-2026 14:21:02 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'tanggal_bayar' in 'field list' in C:\xampp\htdocs\PBL-TRPL101-CM2\dashboard_warga\bayariuranwarga.php:290
+Stack trace:
+#0 C:\xampp\htdocs\PBL-TRPL101-CM2\dashboard_warga\bayariuranwarga.php(290): mysqli_query(Object(mysqli), 'UPDATE iuran_ru...')
+#1 {main}
+  thrown in C:\xampp\htdocs\PBL-TRPL101-CM2\dashboard_warga\bayariuranwarga.php on line 290
